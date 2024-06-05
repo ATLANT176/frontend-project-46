@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/ATLANT176/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ATLANT176/frontend-project-46/actions)",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "gendiff": "bin/gendiff.js"
   },
@@ -16,7 +17,6 @@
     "make": "^0.0.0",
     "node": "^20.14.0"
   },
-  "type": "module",
   "devDependencies": {
     "@eslint/create-config": "^1.0.0",
     "@eslint/eslintrc": "^3.1.0",
