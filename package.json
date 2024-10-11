@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/ATLANT176/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ATLANT176/frontend-project-46/actions)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "node": "^20.18.0"
+  }
+}
