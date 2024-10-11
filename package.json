@@ -13,7 +13,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "commander": "^12.1.0",
-    "node": "^20.18.0"
+    "commander": "^12.1.0"
   }
 }
